@@ -1,14 +1,30 @@
 # MORPH-OS
 
-**Extropic Semantic Codec for Morphogen Gray–Scott fields.**
+**Minimal Ontic Reference, Preserved Homology — Operating Stack.**
 
 Ship an ontology pointer and an extropic residual. Reconstruct the field locally. Preserve structural ontology and persistent homology — not pixel parity.
+
+A **MORPH** is the transported homologue: the smallest ontic reference that still lets a decoder reconstruct the *kind of thing* the source field is, with its H₀ barcode intact.
 
 This repository is the implementable specification that sits between:
 
 - [MORPHOS](https://github.com/IAmM3ta/MORPHOS) — generative image codec + Morphogen v2 instrument
 - Thomas, *Extropy as a Metric of Cognitive Novelty* (2025)
 - *Extropic Semantic Codecs* (ESC 1.0)
+
+## Taxonomy
+
+| Name | What it is |
+|---|---|
+| **Morphogen** | The instrument. CPU Gray–Scott field, live Sync pump. |
+| **ESC** | The packet. Ontology pointer + manifold anchor + residual + barcode. |
+| **MORPH** | The homologue on the wire. *Minimal Ontic Reference, Preserved Homology.* |
+| **MORPH-OS** | This stack: kernel, manifold, codec, H₀ engine, reports. |
+| **MORPHOS** | Sibling repo. IMAGE_8 generative image codec + Morphogen v2 UI. |
+
+First-use sentence for the paper:
+
+> A MORPH (Minimal Ontic Reference, Preserved Homology) is an ESC packet whose residual is sufficient to replay a Gray–Scott field up to working-threshold β0 on the periodic torus.
 
 ## Claim, narrowed
 
