@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+esc/reports/*.npz
+esc/fields/*.png
+esc/reports/sweep_log.txt
