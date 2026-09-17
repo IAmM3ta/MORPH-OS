@@ -1,0 +1,10 @@
+{
+  "size_128": {
+    "L0": {"n": 10, "mean_esc_bytes": 412.4, "mean_png_bytes": 11324.6, "mean_esc_vs_png": 0.086, "mean_mse_v": 0.000362, "mean_blob_abs_error": 0.4, "packet_class_accuracy": 1.0},
+    "L1": {"n": 10, "mean_esc_bytes": 472.1, "mean_png_bytes": 11324.6, "mean_esc_vs_png": 0.100, "mean_mse_v": 0.000298, "mean_blob_abs_error": 0.0, "packet_class_accuracy": 1.0},
+    "L2": {"n": 11, "mean_esc_bytes": 805.3, "mean_png_bytes": 10644.4, "mean_esc_vs_png": 0.173, "mean_mse_v": 0.000254, "mean_blob_abs_error": 0.45, "packet_class_accuracy": 1.0},
+    "L3": {"n": 10, "mean_esc_bytes": 1601.5, "mean_png_bytes": 11324.6, "mean_esc_vs_png": 0.332, "mean_mse_v": 0.000141, "mean_blob_abs_error": 0.4, "packet_class_accuracy": 1.0}
+  },
+  "size_256": {"mean_esc_bytes_L2": 912.7, "mean_png_bytes": 53224.0},
+  "classifier": {"packet_declared_accuracy": 1.0, "zscored_source_accuracy": 0.73}
+}

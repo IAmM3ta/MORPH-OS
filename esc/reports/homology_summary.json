@@ -1,0 +1,6 @@
+{
+  "L0": {"beta0_accuracy": 0.8333333333333334, "mean_bottleneck_h0": 0.11682249944368268},
+  "L1": {"beta0_accuracy": 1.0, "mean_bottleneck_h0": 0.11696669666829168},
+  "L2": {"beta0_accuracy": 0.8333333333333334, "mean_bottleneck_h0": 0.04782783137783005},
+  "L3": {"beta0_accuracy": 0.8333333333333334, "mean_bottleneck_h0": 0.0705971349062639}
+}
