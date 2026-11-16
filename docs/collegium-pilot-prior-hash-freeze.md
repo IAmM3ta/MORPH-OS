@@ -6,7 +6,7 @@
 ## Packet
 - File: Extropic Semantic Codecs (20 pp)
 - sha256: `eb5372fc297b4b88d0a7e41a46bb5e00d860121abd2be07768ba3f093a14eb9f`
-- Engine repo: `IAmM3ta/MORPH-OS` (hyphen) — **not** `MORPHOS`
+- Engine repo: `IAmM3ta/MORPH-OS` (hyphen) — not [`IMAGE_N-codec`](https://github.com/IAmM3ta/IMAGE_N-codec) (formerly `IAmM3ta/MORPHOS`) and not the MORPHOS Living Field instrument
 - Engine HEAD: `bd40f4fdd8840681f6fa4baf27d500e81312979c`
 
 ## Shared prior (esc/SPEC.md)

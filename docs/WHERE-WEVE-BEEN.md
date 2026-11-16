@@ -9,7 +9,7 @@ Goal alignment: learn carefully; only ship claims that can be published or demoe
 - Useful for illustration. It does **not** define the scientific freeze or the camera-ready package.
 
 ### 2026-09-17 — Wrong repo catch (naming hygiene)
-- `MORPHOS` (no hyphen) = generative image codec / Morphogen v2 UI sibling.
+- `MORPHOS` (no hyphen) was the generative image codec / Morphogen v2 UI sibling; that codec repo was later renamed to [`IMAGE_N-codec`](https://github.com/IAmM3ta/IMAGE_N-codec). The name MORPHOS now belongs only to the Living Field instrument ([MORPHOS-APP](https://github.com/IAmM3ta/MORPHOS-APP)).
 - `MORPH-OS` (hyphen) = Gray–Scott engine, ESC codec, homology — the freeze engine.
 - Ops stamp and camera-ready work use **MORPH-OS only**.
 

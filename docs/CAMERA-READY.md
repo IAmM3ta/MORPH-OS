@@ -10,11 +10,11 @@
 | Packet | *Extropic Semantic Codecs*, **20 pp** |
 | Packet sha256 | `eb5372fc297b4b88d0a7e41a46bb5e00d860121abd2be07768ba3f093a14eb9f` |
 | Engine | `morphogen-gs-cpu-v2` |
-| Engine repo | `IAmM3ta/MORPH-OS` (hyphen) — **not** `MORPHOS` |
+| Engine repo | `IAmM3ta/MORPH-OS` (hyphen) — not [`IMAGE_N-codec`](https://github.com/IAmM3ta/IMAGE_N-codec) (formerly `IAmM3ta/MORPHOS`) and not the MORPHOS Living Field instrument |
 | Mitosis prior_hash | `40c8d4a53611fa4b` |
 | Stamp doc | [`docs/collegium-pilot-prior-hash-freeze.md`](docs/collegium-pilot-prior-hash-freeze.md) |
 
-**Excluded from this tag:** 32 pp editions (`b6b334a0…`, `73ead43c…`); V2 FPR/preservation % as evaluated science; IMAGE_8 / `MORPHOS` codec repo.
+**Excluded from this tag:** 32 pp editions (`b6b334a0…`, `73ead43c…`); V2 FPR/preservation % as evaluated science; IMAGE_8 / [`IMAGE_N-codec`](https://github.com/IAmM3ta/IMAGE_N-codec) (formerly `IAmM3ta/MORPHOS`).
 
 ## Recompute (Table 4.4 / homology ladder)
 

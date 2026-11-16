@@ -2,13 +2,15 @@
 
 **Minimal Ontic Reference, Preserved Homology — Operating Stack.**
 
+This repository is **MORPH-OS** (hyphenated): a semantic/homology codec for Gray–Scott fields. It is not **MORPHOS**, the Living Field real-time instrument at [IAmM3ta/MORPHOS-APP](https://github.com/IAmM3ta/MORPHOS-APP).
+
 Ship an ontology pointer and an extropic residual. Reconstruct the field locally. Preserve structural ontology and persistent homology — not pixel parity.
 
 A **MORPH** is the transported homologue: the smallest ontic reference that still lets a decoder reconstruct the *kind of thing* the source field is, with its H₀ barcode intact.
 
 This repository is the implementable specification that sits between:
 
-- [MORPHOS](https://github.com/IAmM3ta/MORPHOS) — generative image codec + Morphogen v2 instrument
+- [IMAGE_N-codec](https://github.com/IAmM3ta/IMAGE_N-codec) — IMAGE_N generative image codec (IMAGE_8 historical version) + vendored Morphogen v2 CPU instrument (formerly `IAmM3ta/MORPHOS`)
 - Thomas, *Extropy as a Metric of Cognitive Novelty* (2025)
 - *Extropic Semantic Codecs* (ESC 1.0)
 
@@ -20,7 +22,7 @@ This repository is the implementable specification that sits between:
 | **ESC** | The packet. Ontology pointer + manifold anchor + residual + barcode. |
 | **MORPH** | The homologue on the wire. *Minimal Ontic Reference, Preserved Homology.* |
 | **MORPH-OS** | This stack: kernel, manifold, codec, H₀ engine, reports. |
-| **MORPHOS** | Sibling repo. IMAGE_8 generative image codec + Morphogen v2 UI. |
+| **IMAGE_N** | Sibling repo [`IMAGE_N-codec`](https://github.com/IAmM3ta/IMAGE_N-codec). IMAGE_N generative image codec (IMAGE_8 historical version) + vendored Morphogen v2 UI. Formerly published as `MORPHOS`. |
 
 First-use sentence for the paper:
 

@@ -1,4 +1,4 @@
-"""CPU Gray–Scott kernel aligned with Morphogen v2 (IAmM3ta/MORPHOS).
+"""CPU Gray–Scott kernel aligned with Morphogen v2 (vendored in IAmM3ta/IMAGE_N-codec; MORPHOS Living Field instrument lineage).
 
 Periodic 5-point Laplacian, dt=1, clamp to [0, 1], same preset table.
 """
